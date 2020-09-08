@@ -1,0 +1,22 @@
+{
+  "name": "com.arrowsmith",
+  "version": "1.0.0",
+  "displayName": "3D FOV Visualization",
+  "description": "Mesh generator and raycast system for a highly customizable 3D field-of-view. Useful for stealth games on enemy characters.",
+  "unity": "2020.1",
+  "unityRelease": "3f1",
+  "dependencies": {
+ },
+ "keywords": [
+    "field",
+	"of",
+	"view",
+	"vision",
+	"stealth",
+	"cone",
+	"visual"
+  ],
+  "author": {
+    "name": "AArrowsmith"
+  }
+}
