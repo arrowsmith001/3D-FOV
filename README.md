@@ -6,3 +6,5 @@ Potential improvements:
 - Shader, to make the shape not be seen through itself, or an outline effect, or some kind of effect to make the FOV itself appear better.
 - Improve the pinches in the shape somehow.
 - Improve performance.
+
+Status: Continually improving
