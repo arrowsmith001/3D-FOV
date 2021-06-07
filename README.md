@@ -7,4 +7,4 @@ Potential improvements:
 - Improve the pinches in the shape somehow.
 - Improve performance.
 
-Status: Continually improving
+Status: Continually improving, open to contribution
